@@ -1,0 +1,26 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "This is my first stream.",
+      "userId": "103879503241019061429",
+      "id": 1
+    },
+    {
+      "title": "New Stream",
+      "description": "This is new stream.",
+      "userId": null,
+      "id": 2
+    },
+    {
+      "title": "Create a Redirect",
+      "description": "testing create redirect.",
+      "id": 3
+    },
+    {
+      "title": "Edit",
+      "description": "Patch request",
+      "id": 4
+    }
+  ]
+}
